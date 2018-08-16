@@ -1,0 +1,25 @@
+.nav {
+  &__list {
+    list-style: none;
+    margin-bottom: 0;
+  }
+  &__item {
+    margin-bottom: 0;
+    + .nav__item {
+      margin-top: 0.5rem;
+      padding-top: 0.5rem;
+      border-top: 1px solid #ccc;
+    }
+    @media screen and (min-width: 596px) {
+      display: inline-block;
+      + .nav__item {
+        border-left: 1px solid #ccc;
+        border-top: 0 none;
+        margin-left: 1rem;
+        margin-top: 0;
+        padding-left: 1rem;
+        padding-top: 0;
+      }
+    }
+  }
+}

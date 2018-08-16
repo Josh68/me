@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  margin-bottom: 2rem;
+  transition-property: justify-content;
+  transition-duration: 1s;
+  transition-delay: 0.5s;
+  &_page {
+    justify-content: space-between;
+  }
+  &_home {
+    justify-content: flex-end;
+  }
+}
