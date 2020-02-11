@@ -1,8 +1,6 @@
 html,
 body,
-#___gatsby,
-.layout,
-.page {
+#___gatsby {
   height: 100%;
 }
 
@@ -13,6 +11,10 @@ html {
 .main {
   background-color: var(--color_bg);
   margin: 0 auto;
+}
+
+.layout {
+  min-height: 100%;
 }
 
 .layout_home,
