@@ -1,3 +1,3 @@
-@import "~react-typist/src/Cursor";
-@import "vars";
-@import "scss/all";
+@use '~react-typist/src/Cursor' as *;
+@use 'vars';
+@use 'scss' as *;
