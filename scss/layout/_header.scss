@@ -11,3 +11,9 @@
     justify-content: flex-end;
   }
 }
+
+@media print {
+  .header {
+    display: none;
+  }
+}
