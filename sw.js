@@ -50,17 +50,6 @@ self.__precacheManifest = [
     "revision": "bfa9f9e6872431e25f76e6f70339d490"
   },
   {
-    "url": "app-a59cd2c26cced33bf3db.js"
-  },
-  {
-    "url": "app-a59cd2c26cced33bf3db.js.LICENSE.txt",
-    "revision": "a132a411173507cc7e308c078456c62f"
-  },
-  {
-    "url": "app-a59cd2c26cced33bf3db.js.map",
-    "revision": "15faf69ecc9818e407b5d147b7b53298"
-  },
-  {
     "url": "app-f628a59920d58fc08374.js"
   },
   {
@@ -201,7 +190,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/about/page-data.json",
-    "revision": "9b90a097d0724406c325f48e8d5445a6"
+    "revision": "d4d6e0b0eb2fa23c89ab270cbe6f6017"
   },
   {
     "url": "page-data/app-data.json",
@@ -217,11 +206,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/resume/page-data.json",
-    "revision": "83693102c9d5ba500b5792fd937e460d"
+    "revision": "ebd141c72c6e6659cdaf4466ae5cebae"
   },
   {
     "url": "page-data/sq/d/2706045290.json",
-    "revision": "ad33518d3304b43131713476108dd904"
+    "revision": "0177d0849b813b0adc7ecc7995f39c6f"
   },
   {
     "url": "polyfill-b501fe73f7f74246766f.js"
@@ -232,7 +221,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resume/index.html",
-    "revision": "627467a1425d8ef5354b85e87df233be"
+    "revision": "1bfb2b55e3436ac4429254024c75498d"
   },
   {
     "url": "robots.txt",
@@ -451,13 +440,6 @@ self.__precacheManifest = [
   },
   {
     "url": "styles.bf6937269d6044cd5ae8.css"
-  },
-  {
-    "url": "webpack-runtime-0c0bd6a974faddd034ab.js"
-  },
-  {
-    "url": "webpack-runtime-0c0bd6a974faddd034ab.js.map",
-    "revision": "c0db04e92e7c09ec1517453cd47995dc"
   },
   {
     "url": "webpack-runtime-7c0bd3378b9ec33824c3.js"
